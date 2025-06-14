@@ -17,8 +17,6 @@ public class AutoMovingBlock : MonoBehaviour
     {
         startPos = transform.position;
         targetPos = startPos + Vector3.up * moveDistance;
-
-
     }
 
     void Update()

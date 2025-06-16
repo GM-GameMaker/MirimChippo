@@ -21,6 +21,7 @@ TagManager:
   - minustimeItem
   - Boss
   - Document
+  - Laser
   layers:
   - Default
   - TransparentFX

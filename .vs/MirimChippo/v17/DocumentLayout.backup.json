@@ -3,46 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\lmslh\\MirimChippo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|c:\\users\\lmslh\\mirimchippo\\assets\\script\\gamemaneger4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemaneger4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|c:\\users\\lmslh\\mirimchippo\\assets\\script\\gamemaneger3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemaneger3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\gamemaneger2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemaneger2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\gamemaneger1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemaneger1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\fallingblocklerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fallingblocklerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\fallingpaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fallingpaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\fallingblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fallingblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\doublejumpitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\doublejumpitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\bosslaserattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bosslaserattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -65,26 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\automovingblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\automovingblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\playercollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\itembehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\itembehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\thrownitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\thrownitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -103,256 +43,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameManeger4.cs",
-              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\GameManeger4.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\GameManeger4.cs",
-              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\GameManeger4.cs",
-              "RelativeToolTip": "Assets\\script\\GameManeger4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:11:03.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameManeger3.cs",
-              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\GameManeger3.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\GameManeger3.cs",
-              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\GameManeger3.cs",
-              "RelativeToolTip": "Assets\\script\\GameManeger3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:10:23.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameManeger2.cs",
-              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\GameManeger2.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\GameManeger2.cs",
-              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\GameManeger2.cs",
-              "RelativeToolTip": "Assets\\script\\GameManeger2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:09:37.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameManeger1.cs",
-              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\GameManeger1.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\GameManeger1.cs",
-              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\GameManeger1.cs",
-              "RelativeToolTip": "Assets\\script\\GameManeger1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:09:33.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FallingBlockLerp.cs",
-              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\FallingBlockLerp.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\FallingBlockLerp.cs",
-              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\FallingBlockLerp.cs",
-              "RelativeToolTip": "Assets\\script\\FallingBlockLerp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:07:49.872Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FallingBlock.cs",
-              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\FallingBlock.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\FallingBlock.cs",
-              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\FallingBlock.cs",
-              "RelativeToolTip": "Assets\\script\\FallingBlock.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:07:42.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EnemyPatrol.cs",
-              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\EnemyPatrol.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\EnemyPatrol.cs",
-              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\EnemyPatrol.cs",
-              "RelativeToolTip": "Assets\\script\\EnemyPatrol.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:07:37.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DoubleJumpItem.cs",
-              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\DoubleJumpItem.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\DoubleJumpItem.cs",
-              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\DoubleJumpItem.cs",
-              "RelativeToolTip": "Assets\\script\\DoubleJumpItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:07:32.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BlockItemSpawner.cs",
-              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\BlockItemSpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\BlockItemSpawner.cs",
-              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\BlockItemSpawner.cs",
-              "RelativeToolTip": "Assets\\script\\BlockItemSpawner.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:07:17.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "backgroundMovement.cs",
-              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\backgroundMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\backgroundMovement.cs",
-              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\backgroundMovement.cs",
-              "RelativeToolTip": "Assets\\script\\backgroundMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:07:10.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "backgroundFollow.cs",
-              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\backgroundFollow.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\backgroundFollow.cs",
-              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\backgroundFollow.cs",
-              "RelativeToolTip": "Assets\\script\\backgroundFollow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:07:07.341Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FallingPaper.cs",
-              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\FallingPaper.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\FallingPaper.cs",
-              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\FallingPaper.cs",
-              "RelativeToolTip": "Assets\\script\\FallingPaper.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T10:39:57.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ThrownItem.cs",
-              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\ThrownItem.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\ThrownItem.cs",
-              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\ThrownItem.cs",
-              "RelativeToolTip": "Assets\\script\\ThrownItem.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA0wCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T19:56:21.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "BossLaserAttack.cs",
               "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\BossLaserAttack.cs",
               "RelativeDocumentMoniker": "Assets\\script\\BossLaserAttack.cs",
               "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\BossLaserAttack.cs",
               "RelativeToolTip": "Assets\\script\\BossLaserAttack.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAcwE8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T19:29:17.271Z"
+              "WhenOpened": "2025-06-16T15:21:15.01Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ItemBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\ItemBehavior.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\ItemBehavior.cs",
-              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\ItemBehavior.cs",
-              "RelativeToolTip": "Assets\\script\\ItemBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T18:57:30.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FollowCamera.cs",
-              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\FollowCamera.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\FollowCamera.cs",
-              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\FollowCamera.cs",
-              "RelativeToolTip": "Assets\\script\\FollowCamera.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T13:36:34.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "playerCollect.cs",
-              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\playerCollect.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\playerCollect.cs",
-              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\playerCollect.cs",
-              "RelativeToolTip": "Assets\\script\\playerCollect.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T12:34:02.027Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PlayerAttack.cs",
-              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\PlayerAttack.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\PlayerAttack.cs",
-              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\PlayerAttack.cs",
-              "RelativeToolTip": "Assets\\script\\PlayerAttack.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAUwCIAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T18:06:16.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "BossController.cs",
               "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\BossController.cs",
               "RelativeDocumentMoniker": "Assets\\script\\BossController.cs",
               "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\BossController.cs",
               "RelativeToolTip": "Assets\\script\\BossController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T18:03:10.669Z"
+              "WhenOpened": "2025-06-16T15:21:08.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "playermove.cs",
-              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\playermove.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\playermove.cs",
-              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\playermove.cs",
-              "RelativeToolTip": "Assets\\script\\playermove.cs",
-              "ViewState": "AgIAABoBAAAAAAAAAAAowCYBAAApAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BlockItemSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\BlockItemSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\BlockItemSpawner.cs",
+              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\BlockItemSpawner.cs",
+              "RelativeToolTip": "Assets\\script\\BlockItemSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T13:33:03.743Z"
+              "WhenOpened": "2025-06-16T15:21:06.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
+              "Title": "backgroundMovement.cs",
+              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\backgroundMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\backgroundMovement.cs",
+              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\backgroundMovement.cs",
+              "RelativeToolTip": "Assets\\script\\backgroundMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:21:04.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "backgroundFollow.cs",
+              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\backgroundFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\backgroundFollow.cs",
+              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\backgroundFollow.cs",
+              "RelativeToolTip": "Assets\\script\\backgroundFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:21:00.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AutoMovingBlock.cs",
               "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\AutoMovingBlock.cs",
               "RelativeDocumentMoniker": "Assets\\script\\AutoMovingBlock.cs",
               "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\AutoMovingBlock.cs",
               "RelativeToolTip": "Assets\\script\\AutoMovingBlock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T09:46:49.889Z"
+              "WhenOpened": "2025-06-16T15:20:59.101Z"
             }
           ]
         }

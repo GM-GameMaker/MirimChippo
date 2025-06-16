@@ -12,8 +12,8 @@ public class BossLaserAttack : MonoBehaviour
     public GameObject[] lasers;
     public Transform[] laserPositions;
 
-    public float paperAttackInterval = 7f;
-    public float laserAttackInterval = 3f;
+    public float paperAttackInterval = 15f;
+    public float laserAttackInterval = 10f;
     public float bossTotalTime = 40f;
     private float bossTimeLeft;
 

@@ -286,6 +286,24 @@ public class PlayerMove : MonoBehaviour
             Destroy(other.gameObject);
         }
 
+        if (other.CompareTag("Document"))
+        {
+            TakeDamage();
+            Destroy(other.gameObject);
+        }
+
+        if (other.CompareTag("Document"))
+        {
+            TakeDamage();
+            Destroy(other.gameObject);
+        }
+
+        if (other.CompareTag("Collectible"))
+        {
+            collectedItemCount++;
+            UpdateClearIcons();
+            Destroy(other.gameObject);
+        }
 
     }
 

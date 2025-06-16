@@ -30,7 +30,7 @@ public class PlayerMove : MonoBehaviour
     private bool isGrounded = false;
     private Vector3 startPosition;
     private float safeGroundTime = 0f;
-    private float safeTimeThreshold = 0.2f; // 0.2초 이상 땅에 있어야 안전 위치로 인정
+    private float safeTimeThreshold = 0.3f; // 0.2초 이상 땅에 있어야 안전 위치로 인정
 
 
     public Image[] hearts;
@@ -216,6 +216,18 @@ public class PlayerMove : MonoBehaviour
             }
         }
 
+        if (collision.gameObject.CompareTag("Document"))
+        {
+            TakeDamage();
+            Destroy(collision.gameObject);
+        }
+
+        if (collision.gameObject.CompareTag("Laser"))  // 레이저 태그 추가
+        {
+            TakeDamage();
+            Destroy(collision.gameObject);
+        }
+
 
     }
 
@@ -286,6 +298,30 @@ public class PlayerMove : MonoBehaviour
             Destroy(other.gameObject);
         }
 
+        if (other.CompareTag("Document"))
+        {
+            TakeDamage();
+            Destroy(other.gameObject);
+        }
+
+        if (other.CompareTag("Document"))
+        {
+            TakeDamage();
+            Destroy(other.gameObject);
+        }
+
+        if (other.CompareTag("Collectible"))
+        {
+            collectedItemCount++;
+            UpdateClearIcons();
+            Destroy(other.gameObject);
+        }
+
+        if (other.CompareTag("Laser"))  // 레이저 태그 추가
+        {
+            TakeDamage();
+            Destroy(other.gameObject);
+        }
 
     }
 

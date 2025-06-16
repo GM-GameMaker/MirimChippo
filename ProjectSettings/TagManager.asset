@@ -19,6 +19,9 @@ TagManager:
   - HealthItem
   - plustimeItem
   - minustimeItem
+  - Boss
+  - Document
+  - Laser
   layers:
   - Default
   - TransparentFX

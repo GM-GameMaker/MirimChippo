@@ -22,6 +22,7 @@ TagManager:
   - Boss
   - Document
   - Laser
+  - SpeechBubble
   layers:
   - Default
   - TransparentFX

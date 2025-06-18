@@ -6303,6 +6303,7 @@ MonoBehaviour:
   doubleJumpDuration: 5
   jumpPower: 20
   maxHealth: 3
+  pauseUI: {fileID: 0}
   hearts:
   - {fileID: 1990491088}
   - {fileID: 1681939935}
@@ -6314,6 +6315,7 @@ MonoBehaviour:
   - {fileID: 1572068637}
   - {fileID: 1849681894}
   clearUI: {fileID: 1156605563}
+  pause: {fileID: 0}
   knockbackForce: 5
 --- !u!114 &1547924961
 MonoBehaviour:

@@ -5,8 +5,9 @@ using UnityEngine.UI;
 
 public class PlayerCollect3 : MonoBehaviour
 {
-    public Image[] clearIcons;        // Inspector에서 UI 아이콘 3개 할당
+    public Image[] clearIcons;        
     private int collectedItemCount = 0;
+    private int requiredItemCount = 6;
 
     void OnCollisionEnter2D(Collision2D collision)
     {
@@ -24,7 +25,7 @@ public class PlayerCollect3 : MonoBehaviour
 
                 collectedItemCount++;
             }
-
+                    
             // 충돌한 아이템 오브젝트 삭제
             Destroy(collision.gameObject);
         }

@@ -8,16 +8,16 @@ public class BossLaserAttack : MonoBehaviour
     public GameObject[] papers;
     public Transform[] paperSpawnPoints;
 
-    [Header("체력 회복 설정")]
-    public GameObject[] battery;
-    public Transform[] batterySpawnPoints;
-
     [Header("레이저 공격 설정")]
     public GameObject[] lasers;
     public Transform[] laserPositions;
 
-    public float paperAttackInterval = 15f;
-    public float laserAttackInterval = 10f;
+    [Header("회복 아이템 설정")]
+    public GameObject[] batteries;
+    public Transform[] batterySpawnPoints;
+
+    public float paperAttackInterval = 8f;
+    public float laserAttackInterval = 7f;
     public float bossTotalTime = 40f;
     private float bossTimeLeft;
 
@@ -85,10 +85,26 @@ public class BossLaserAttack : MonoBehaviour
 
     void PaperAttack()
     {
-        int spawnIndex = Random.Range(0, paperSpawnPoints.Length);
-        GameObject paperPrefab = papers[Random.Range(0, papers.Length)];
-        Transform spawnPoint = paperSpawnPoints[spawnIndex];
+        // 서류
+    if (papers == null || papers.Length == 0 || paperSpawnPoints == null || paperSpawnPoints.Length == 0)
+        return;
 
-        Instantiate(paperPrefab, spawnPoint.position, Quaternion.identity);
+    int spawnIndex = Random.Range(0, paperSpawnPoints.Length);
+    GameObject paperPrefab = papers[Random.Range(0, papers.Length)];
+    Transform spawnPoint = paperSpawnPoints[spawnIndex];
+
+    Instantiate(paperPrefab, spawnPoint.position, Quaternion.identity);
+
+    // 건전지 
+    if (batteries != null && batteries.Length > 0 &&
+        batterySpawnPoints != null && batterySpawnPoints.Length > 0 &&
+        Random.value < 0.4f)
+    {
+        int batterySpawnIndex = Random.Range(0, batterySpawnPoints.Length);
+        GameObject batteryPrefab = batteries[Random.Range(0, batteries.Length)];
+        Transform batterySpawnPoint = batterySpawnPoints[batterySpawnIndex];
+
+        Instantiate(batteryPrefab, batterySpawnPoint.position, Quaternion.identity);
+    }
     }
 }

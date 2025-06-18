@@ -39,5 +39,6 @@ public class BossController : MonoBehaviour
 
         Time.timeScale = 0f; // 게임 일시정지 (선택)
         gameObject.SetActive(false); // 보스 비활성화
+        Debug.Log("게임 클리어!");
     }
 }

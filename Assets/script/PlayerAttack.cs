@@ -30,13 +30,13 @@ public class PlayerAttack : MonoBehaviour
     {
         if (currentIndex >= itemPrefabs.Length)
         {
-            Debug.LogWarning("모든 아이템을 이미 사용했습니다.");
+            Debug.LogWarning("모든 아이템 사용");
             return;
         }
 
         if (itemPrefabs[currentIndex] == null)
         {
-            Debug.LogWarning($"itemPrefabs[{currentIndex}] 프리팹이 null입니다. Inspector 연결 확인.");
+            Debug.LogWarning($"itemPrefabs[{currentIndex}]이 null입니다.");
             return;
         }
 

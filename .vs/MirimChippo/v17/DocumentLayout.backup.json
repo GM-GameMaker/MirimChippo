@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|c:\\users\\lmslh\\mirimchippo\\assets\\script\\thrownitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\thrownitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\thrownitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|c:\\users\\lmslh\\mirimchippo\\assets\\script\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,10 +36,9 @@
               "RelativeDocumentMoniker": "Assets\\script\\BossController.cs",
               "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\BossController.cs",
               "RelativeToolTip": "Assets\\script\\BossController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:19:08.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T13:19:08.292Z"
             },
             {
               "$type": "Document",
@@ -49,10 +48,9 @@
               "RelativeDocumentMoniker": "Assets\\script\\ThrownItem.cs",
               "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\ThrownItem.cs",
               "RelativeToolTip": "Assets\\script\\ThrownItem.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwAkAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:18:06.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T13:18:06.169Z"
             },
             {
               "$type": "Document",
@@ -62,7 +60,7 @@
               "RelativeDocumentMoniker": "Assets\\script\\PlayerAttack.cs",
               "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\PlayerAttack.cs",
               "RelativeToolTip": "Assets\\script\\PlayerAttack.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T13:06:23.581Z",
               "EditorCaption": ""

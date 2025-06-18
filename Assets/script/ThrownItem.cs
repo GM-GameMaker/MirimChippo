@@ -14,14 +14,13 @@ public class ThrownItem : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collided) return;
-        collided = true;
+        Debug.Log($"ThrownItem 충돌 감지: {collision.gameObject.name}, 태그: {collision.gameObject.tag}");
 
         if (collision.gameObject.CompareTag("Boss"))
         {
+            Debug.Log("보스와 충돌함!");
             collision.gameObject.GetComponent<BossController>()?.TakeHit();
-
-            playerAttack?.UseItem(); // Boss에게 맞았을 때만 다음 아이템 사용
+            playerAttack?.UseItem();
             Destroy(gameObject);
         }
         else

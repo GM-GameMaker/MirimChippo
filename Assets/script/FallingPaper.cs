@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class FallingPaper : MonoBehaviour
 {
-    public float fallSpeed = 5f;
+    public float fallSpeed = 3f;
 
     void Update()
     {

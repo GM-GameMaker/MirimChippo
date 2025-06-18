@@ -8,6 +8,10 @@ public class BossLaserAttack : MonoBehaviour
     public GameObject[] papers;
     public Transform[] paperSpawnPoints;
 
+    [Header("체력 회복 설정")]
+    public GameObject[] battery;
+    public Transform[] batterySpawnPoints;
+
     [Header("레이저 공격 설정")]
     public GameObject[] lasers;
     public Transform[] laserPositions;
@@ -47,8 +51,13 @@ public class BossLaserAttack : MonoBehaviour
 
     void HideAllLasers()
     {
-        foreach (var laser in lasers)
-            laser.SetActive(false);
+        foreach (GameObject laser in lasers)
+        {
+            if (laser && laser.activeInHierarchy)
+            {
+                laser.SetActive(false);
+            }
+        }
     }
 
     void LaserAttack()
@@ -58,16 +67,20 @@ public class BossLaserAttack : MonoBehaviour
         int index = Random.Range(0, lasers.Length);
         GameObject selectedLaser = lasers[index];
 
-        selectedLaser.transform.position = laserPositions[index].position;
-        selectedLaser.SetActive(true);
+        if (selectedLaser != null)
+        {
+            selectedLaser.transform.position = laserPositions[index].position;
+            selectedLaser.SetActive(true);
 
-        StartCoroutine(DisableAfterSeconds(selectedLaser, 0.5f));
+            StartCoroutine(DisableAfterSeconds(selectedLaser, 0.5f));
+        }
     }
 
     IEnumerator DisableAfterSeconds(GameObject obj, float seconds)
     {
         yield return new WaitForSeconds(seconds);
-        obj.SetActive(false);
+        if (obj != null)
+            obj.SetActive(false);
     }
 
     void PaperAttack()

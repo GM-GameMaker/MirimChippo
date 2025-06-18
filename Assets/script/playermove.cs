@@ -9,7 +9,7 @@ public class PlayerMove : MonoBehaviour
     private bool canDoubleJump = false;
     private bool hasDoubleJumpItem = false;
 
-    public float gameTime = 40f;
+    public float gameTime =100f;
     private float timer;
     public TMP_Text timerText;
 
@@ -31,6 +31,8 @@ public class PlayerMove : MonoBehaviour
     private Vector3 startPosition;
     private float safeGroundTime = 0f;
     private float safeTimeThreshold = 0.3f; // 0.2초 이상 땅에 있어야 안전 위치로 인정
+    public GameObject pauseUI; // 설정 버튼 누르면 나올 UI
+
 
 
     public Image[] hearts;
@@ -48,9 +50,30 @@ public class PlayerMove : MonoBehaviour
 
     public GameObject clearUI; // 클리어 UI 패널
 
+    public GameObject pause; // PauseUI를 유니티에서 연결할 수 있도록 public으로!
+
+    public void OnSettingsButtonClick()
+    {
+        pauseUI.SetActive(true); // 설정창 보이기
+        Time.timeScale = 0f;     // 일시정지
+    }
+
+    public void ClickContinue()
+    {
+        pauseUI.SetActive(false); // 설정창 닫기
+        Time.timeScale = 1f;      // 다시 실행
+    }
+
+    public void GoStartScene()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("StartScene"); // ← 너의 시작 씬 이름!
+    }
+
+
     void Start()
     {
-
+        pauseUI.SetActive(false); // 초기엔 안 보이게
         Time.timeScale = 1f; // 씬 로드시 물리 엔진 다시 작동
         timer = gameTime;
 
@@ -129,6 +152,24 @@ public class PlayerMove : MonoBehaviour
             spriteRenderer.flipX = Input.GetAxisRaw("Horizontal") == -1;
 
         animator.SetBool("isWalking", Mathf.Abs(rigid.velocity.x) > 0.1f);
+    }
+
+    public void OnSettingsButtonClicked()
+    {
+        pauseUI.SetActive(true);
+        Time.timeScale = 0f; // 일시정지
+    }
+
+    public void OnClickContinue()
+    {
+        pauseUI.SetActive(false);
+        Time.timeScale = 1f;
+    }
+
+    public void GoToStartScene()
+    {
+        Time.timeScale = 1f; // 정지 해제
+        SceneManager.LoadScene("StartScene"); // ← 여기에 네가 만든 '처음 화면' 씬 이름 넣어!
     }
 
     public void BoostSpeed()
@@ -250,12 +291,8 @@ public class PlayerMove : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Collectible"))
-        {
-            collectedItemCount++;
-            UpdateClearIcons();
-            Destroy(other.gameObject);
-        }
+ 
+ 
 
         if (other.CompareTag("DoubleJumpItem"))
         {

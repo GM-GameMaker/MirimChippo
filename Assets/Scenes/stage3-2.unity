@@ -1129,7 +1129,7 @@ Canvas:
   m_GameObject: {fileID: 629226092}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_Camera: {fileID: 1848054880}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
@@ -1143,6 +1143,37 @@ Canvas:
   m_SortingLayerID: 442672085
   m_SortingOrder: 2
   m_TargetDisplay: 0
+--- !u!1 &652738079
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 652738080}
+  m_Layer: 0
+  m_Name: SpeechBubblePoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &652738080
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652738079}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.85, y: 17.31, z: 4.7076397}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &675220953
 GameObject:
   m_ObjectHideFlags: 0
@@ -3145,3 +3176,4 @@ SceneRoots:
   - {fileID: 1520853429}
   - {fileID: 1613150491}
   - {fileID: 228610793}
+  - {fileID: 652738080}

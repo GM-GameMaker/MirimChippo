@@ -39,4 +39,21 @@ public class StageChanger : MonoBehaviour
     {
         SceneManager.LoadScene("stage3");
     }
+
+    public void GoToEnding()
+    {
+        SceneManager.LoadScene("ending");
+    }
+
+
+    public void gameRule()
+    {
+        SceneManager.LoadScene("gamerule");
+    }
+
+
+    public void goStart()
+    {
+        SceneManager.LoadScene("startScene");
+    }
 }

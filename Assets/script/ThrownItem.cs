@@ -21,13 +21,20 @@ public class ThrownItem : MonoBehaviour
         {
             collision.gameObject.GetComponent<BossController>()?.TakeHit();
 
-            playerAttack?.UseItem(); // 던진 주체의 UseItem만 호출
-
+            playerAttack?.UseItem(); // Boss에게 맞았을 때만 다음 아이템 사용
             Destroy(gameObject);
         }
         else
         {
             Invoke(nameof(DestroyItem), 2f);
+        }
+    }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Laser"))
+        {
+            Destroy(gameObject);
         }
     }
 

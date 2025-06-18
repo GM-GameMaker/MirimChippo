@@ -2826,7 +2826,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 669538982}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: PlayerMove, Assembly-CSharp
         m_MethodName: RetryGame
         m_Mode: 1
@@ -2837,7 +2837,7 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
-        m_CallState: 2
+        m_CallState: 0
 --- !u!114 &587875588
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3465,11 +3465,11 @@ GameObject:
   m_Component:
   - component: {fileID: 669538983}
   - component: {fileID: 669538988}
-  - component: {fileID: 669538982}
   - component: {fileID: 669538987}
   - component: {fileID: 669538986}
   - component: {fileID: 669538985}
-  - component: {fileID: 669538984}
+  - component: {fileID: 669538990}
+  - component: {fileID: 669538989}
   m_Layer: 5
   m_Name: player
   m_TagString: Player
@@ -3477,39 +3477,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &669538982
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 669538981}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5578ca030bfaa5f489072c88b4008f14, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  gameTime: 40
-  timerText: {fileID: 1378047597}
-  gameOverUI: {fileID: 1605403877}
-  maxSpeed: 7
-  boostedSpeed: 10
-  boostDuration: 5
-  doubleJumpDuration: 5
-  jumpPower: 20
-  maxHealth: 3
-  hearts:
-  - {fileID: 291040137}
-  - {fileID: 1396975844}
-  - {fileID: 1793710016}
-  fullHeart: {fileID: 21300000, guid: 68cd20618b356e946aecbaf2c09ce4d5, type: 3}
-  emptyHeart: {fileID: 21300000, guid: 6258b3e9936632f4aa6c252c27b70bc9, type: 3}
-  clearIcons:
-  - {fileID: 465216398}
-  - {fileID: 1407334293}
-  - {fileID: 593710840}
-  clearUI: {fileID: 2085717011}
-  knockbackForce: 5
 --- !u!4 &669538983
 Transform:
   m_ObjectHideFlags: 0
@@ -3525,22 +3492,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -2.077}
---- !u!114 &669538984
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 669538981}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 185a8fde3cd2ec7428be504ee02c36cd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  clearIcons:
-  - {fileID: 465216398}
-  - {fileID: 1407334293}
-  - {fileID: 593710840}
 --- !u!95 &669538985
 Animator:
   serializedVersion: 5
@@ -3676,6 +3627,55 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &669538989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 669538981}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de5163e9931516e43931fd019af0b441, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameTime: 40
+  timerText: {fileID: 1378047597}
+  gameOverUI: {fileID: 1605403877}
+  maxSpeed: 7
+  boostedSpeed: 10
+  boostDuration: 5
+  doubleJumpDuration: 5
+  jumpPower: 20
+  maxHealth: 3
+  hearts:
+  - {fileID: 291040137}
+  - {fileID: 1396975844}
+  - {fileID: 1793710016}
+  fullHeart: {fileID: 21300000, guid: 68cd20618b356e946aecbaf2c09ce4d5, type: 3}
+  emptyHeart: {fileID: 21300000, guid: 6258b3e9936632f4aa6c252c27b70bc9, type: 3}
+  clearIcons:
+  - {fileID: 465216398}
+  - {fileID: 1407334293}
+  - {fileID: 593710840}
+  clearUI: {fileID: 2085717011}
+  knockbackForce: 5
+--- !u!114 &669538990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 669538981}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6a5da0f111646e4db789da68f0f8540, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clearIcons:
+  - {fileID: 465216398}
+  - {fileID: 1407334293}
+  - {fileID: 593710840}
 --- !u!1 &752178801
 GameObject:
   m_ObjectHideFlags: 0

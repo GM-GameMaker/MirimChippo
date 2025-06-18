@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\lmslh\\MirimChippo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|c:\\users\\lmslh\\mirimchippo\\assets\\script\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|c:\\users\\lmslh\\mirimchippo\\assets\\script\\playercollect3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercollect3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|c:\\users\\lmslh\\mirimchippo\\assets\\script\\playercollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|c:\\users\\lmslh\\mirimchippo\\assets\\script\\bosslaserattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bosslaserattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|c:\\users\\lmslh\\mirimchippo\\assets\\script\\fallingpaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fallingpaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|c:\\users\\lmslh\\mirimchippo\\assets\\script\\batteryrecovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\batteryrecovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\thrownitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\thrownitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|C:\\Users\\lmslh\\MirimChippo\\assets\\script\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AD214D-A52C-2A64-EB86-EB69F7D19E6B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,40 +50,105 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerCollect3.cs",
+              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\PlayerCollect3.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\PlayerCollect3.cs",
+              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\PlayerCollect3.cs",
+              "RelativeToolTip": "Assets\\script\\PlayerCollect3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T16:31:32.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "playerCollect.cs",
+              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\playerCollect.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\playerCollect.cs",
+              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\playerCollect.cs",
+              "RelativeToolTip": "Assets\\script\\playerCollect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T16:25:00.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FallingPaper.cs",
+              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\FallingPaper.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\FallingPaper.cs",
+              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\FallingPaper.cs",
+              "RelativeToolTip": "Assets\\script\\FallingPaper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:58:45.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "batteryrecovery.cs",
+              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\batteryrecovery.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\batteryrecovery.cs",
+              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\batteryrecovery.cs",
+              "RelativeToolTip": "Assets\\script\\batteryrecovery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:48:15.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "BossLaserAttack.cs",
+              "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\BossLaserAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\BossLaserAttack.cs",
+              "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\BossLaserAttack.cs",
+              "RelativeToolTip": "Assets\\script\\BossLaserAttack.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswGQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:15:18.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BossController.cs",
               "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\BossController.cs",
               "RelativeDocumentMoniker": "Assets\\script\\BossController.cs",
               "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\BossController.cs",
               "RelativeToolTip": "Assets\\script\\BossController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:19:08.292Z"
+              "WhenOpened": "2025-06-18T13:19:08.292Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ThrownItem.cs",
               "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\ThrownItem.cs",
               "RelativeDocumentMoniker": "Assets\\script\\ThrownItem.cs",
               "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\ThrownItem.cs",
               "RelativeToolTip": "Assets\\script\\ThrownItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T13:18:06.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "PlayerAttack.cs",
               "DocumentMoniker": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\PlayerAttack.cs",
               "RelativeDocumentMoniker": "Assets\\script\\PlayerAttack.cs",
               "ToolTip": "C:\\Users\\lmslh\\MirimChippo\\Assets\\script\\PlayerAttack.cs",
               "RelativeToolTip": "Assets\\script\\PlayerAttack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:06:23.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T13:06:23.581Z"
             }
           ]
         }
